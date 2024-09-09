@@ -12,16 +12,16 @@
 ### client
 
 아래 명령어 순서로 터미널에 입력하기
+
 ```bash
 npm i
 npm run dev
-``` 
-
-## server 
-
 ```
 
-```
+### server
+
+아래 깃허브를 통해 확인 가능
+https://github.com/devchaeyoung/Santa-BE
 
 ## **서비스 목적**
 
@@ -168,7 +168,8 @@ npm run dev
 
 ## 와이어프레임
 ---
-![스크린샷_2024-05-11_오전_3.42.31](/uploads/266b50cc2fd2ba0b7b83a39d57243507/스크린샷_2024-05-11_오전_3.42.31.png)
+![와이어프레임](https://private-user-images.githubusercontent.com/124546770/365635292-03502676-d56b-4c95-a895-e2c1ffa21f70.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU4ODI2NzIsIm5iZiI6MTcyNTg4MjM3MiwicGF0aCI6Ii8xMjQ1NDY3NzAvMzY1NjM1MjkyLTAzNTAyNjc2LWQ1NmItNGM5NS1hODk1LWUyYzFmZmEyMWY3MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwOVQxMTQ2MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNjAyMGFhZjIyN2E5YzRlNzhlY2Y5YWZlYzRiMDJiOGFiNDNhY2ZmZWRmYzhkY2ZjNDY4YmEzOGZjZDNiNGFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.6O9JyPVkAzd9IG9EU3YVWr4UhEZVTjFUjswxXUT9E9U)
+
 ## 기술 스택
 
 > 프론트엔드
